@@ -14,8 +14,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
-- [EU accession](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
+- [EU accession and cooperation](#eu-accession)
+- [Trade Facilitation](#trade-facilitation)
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -54,13 +56,19 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 
 
-### EU accession <a name="eu-accession"></a> 
+### EU accession and cooperation <a name="eu-accession"></a> 
 
 - Bosnia and Herzegovina 2023 Report - Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: https://neighbourhood-enlargement.ec.europa.eu/document/download/e3045ec9-f2fc-45c8-a97f-58a2d9b9945a_en?filename=SWD_2023_691%20Bosnia%20and%20Herzegovina%20report.pdf 
 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
+- 
 
+### Digitalisation <a name="digitalisation"></a>
+
+-
+
+### Gender and Equality <a name="gender"></a>
 - 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
