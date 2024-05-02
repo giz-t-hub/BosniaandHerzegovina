@@ -39,10 +39,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-  
+	- Nationally Determined Contribution of Bosnia and Herzegovina (NDC) for the Period 2020-2030, 2021: https://unfccc.int/documents/497333
+ 	- Fourth National Communication of Bosnia and Herzegovina under the United Nations Framework Convention on Climate Change, December 2012: https://unfccc.int/documents/628318
+  	- Third Biennial Update Report on Greenhouse Gas Emissions of Bosnia and Herzegovina under the United Nations Framework Convention on Climate Change, October 2022: https://unfccc.int/documents/628322
+  	- The 2020-2030 Climate Change Adaptation and Low Emission Development Strategy for Bosnia and Herzegovina: https://unfccc.int/documents/630689
       
 - Adaptation
-   
+     	- The 2020-2030 Climate Change Adaptation and Low Emission Development Strategy for Bosnia and Herzegovina: https://unfccc.int/documents/630689
 
 - Energy policy 
     - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)    
@@ -76,6 +79,7 @@ Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP)*: http
 
 ### Studies and research papers <a name="studies-research"></a> 
 
+- The Study on the Transport Master Plan in Bosnia and Herzegovina - Final Report, 2001: https://openjicareport.jica.go.jp/pdf/11633344.pdf
 
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
