@@ -66,7 +66,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Sarajevo: 
 	- Sustainable Urban Mobility Plan Canton Sarajevo and City of Sarajevo - SUMP, July 2020 *(
-Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP): https://ms.ks.gov.ba/sites/ms.ks.gov.ba/files/SUMP.pdf
+Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP)*: https://ms.ks.gov.ba/sites/ms.ks.gov.ba/files/SUMP.pdf
 	- Green Cantonal Action Plan for Sarajevo, December 2020 *(Zeleni akcioni plan Kantona Sarajevo (GCAP))*: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD-Sarajevo-GCAP-FINAL-LL-v5-2-For-ISSUE.pdf, EN: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD-Sarajevo-GCAP-FINAL-EN-v5-2-For-ISSUE.pdf
  	-  Study on uban ventilation corridors, 2019 *(Studija o urbanim ventilacionim koridorima i uticaju visokih zgrada)*: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD-_-SJ-GCAP_-Study-of-urban-ventilation-corridors_translated_-LL-_2-Jan-2020.pdf, EN: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD_GCAP_Study-of-urban-ventilation-corridors-V23_Final.pdf
 
