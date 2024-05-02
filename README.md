@@ -45,7 +45,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   	- The 2020-2030 Climate Change Adaptation and Low Emission Development Strategy for Bosnia and Herzegovina: https://unfccc.int/documents/630689
       
 - Adaptation
-     	- The 2020-2030 Climate Change Adaptation and Low Emission Development Strategy for Bosnia and Herzegovina: https://unfccc.int/documents/630689
+	- The 2020-2030 Climate Change Adaptation and Low Emission Development Strategy for Bosnia and Herzegovina: https://unfccc.int/documents/630689
+ 	- National Adaptation Plan – NAP with proposed measures, 2021: https://unfccc.int/sites/default/files/resource/NAP-Bosnia-and-Herzegovina%20.pdf
+ 
 
 - Energy policy 
     - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)    
