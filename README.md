@@ -59,8 +59,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- Bijekjina
-	-  Plan of sustainable urban mobility of the City of Bijeljina (SUMP), 2020 *(План одрживе урбане мобилности Града Бијељина SUMP)*: https://www.gradbijeljina.org/UcitaneSlike/admin/Dokumenti/plan-odrz-urbane-mob-grada-bijeljina,-cir.pdf
+- Bijeljina
+	- Plan of sustainable urban mobility of the City of Bijeljina (SUMP), 2020 *(План одрживе урбане мобилности Града Бијељина SUMP)*: https://www.gradbijeljina.org/UcitaneSlike/admin/Dokumenti/plan-odrz-urbane-mob-grada-bijeljina,-cir.pdf
+ 	- Action plan for sustainable energy management and adaptation to climate change (SECAP), 2020 *(Акциони план одрживог управљања енергијом и 
+прилагођавања климатским промјенама Града Бијељина (SECAP))*: https://www.gradbijeljina.org/UcitaneSlike/admin/Dokumenti/secap-bijeljina.pdf	 
 
 - Sarajevo: 
 	- Sustainable Urban Mobility Plan Canton Sarajevo and City of Sarajevo - SUMP, July 2020 *(
