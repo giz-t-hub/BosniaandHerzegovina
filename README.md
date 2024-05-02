@@ -27,7 +27,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
-	- Documents provided by Ministry of Communications and Transport of Bosnia and Herzegovina: http://www.mkt.gov.ba/Content/Read/zakoni-i-podzaknosti-akti	 	
+	- Framework Transport Policy of Bosnia and Herzegovina 2015-2030 *(Okvirna prometna politika Bosne i Hercegovine 2015.-2030)*: https://www.vijeceministara.gov.ba/akti/prijedlozi_zakona/default.aspx?id=20287&langTag=hr-HR
+ 	- Framework Transport Strategy of Bosnia and Herzegovina 2015-2030 *(Okvirna Strategija Prometa Bosne i Hercegovine)*: http://www.mkt.gov.ba/Content/OpenAttachment?id=4bd22b71-555a-4b20-b9d5-16ea37c27938&lang=bs
+ 	- Documents provided by Ministry of Communications and Transport of Bosnia and Herzegovina: http://www.mkt.gov.ba/Content/Read/zakoni-i-podzaknosti-akti	 	
 
 - General
 
