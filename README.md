@@ -60,8 +60,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Sarajevo:
-	- Sustainable Urban Mobility Plan Canton Sarajevo and City of Sarajevo - SUMP, July 2020 *(
+ - Sustainable Urban Mobility Plan Canton Sarajevo and City of Sarajevo - SUMP, July 2020 *(
 Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP): https://ms.ks.gov.ba/sites/ms.ks.gov.ba/files/SUMP.pdf
+
    
 - Zavidovići
 	- Sustainable Urban Development Strategy Mobility of Zavidovići Municipality, July 2020 *(Strategija Razvoja Održive Urbane Mobilnosti Općine Zavidovići)*: https://www.sogfbih.ba/sites/default/files/javni_dokument/2021-05/Strategija%20razvoja%20odr%C5%BEive%20urbane%20mobilnosti%20op%C4%87ine%20Zavidovi%C4%87i.pdf
