@@ -76,6 +76,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- Banja Luka
+	- Green City Action Plan (GCAP) *(Akcioni plan za zeleni grad Banja Luka)*: https://www.ebrdgreencities.com/assets/Uploads/PDF/EBRD-Banja-Luka-GCAP-LL.pdf, EN: https://www.ebrdgreencities.com/assets/Uploads/PDF/EBRD-Banja-Luka-GCAP-EN.pdf
+   
 - Bijeljina
 	- Plan of sustainable urban mobility of the City of Bijeljina (SUMP), 2020 *(План одрживе урбане мобилности Града Бијељина SUMP)*: https://www.gradbijeljina.org/UcitaneSlike/admin/Dokumenti/plan-odrz-urbane-mob-grada-bijeljina,-cir.pdf
  	- Action plan for sustainable energy management and adaptation to climate change (SECAP), 2020 *(Акциони план одрживог управљања енергијом и 
@@ -86,10 +89,12 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP)*: https://ms.ks.gov.ba/sites/ms.ks.gov.ba/files/SUMP.pdf
 	- Green Cantonal Action Plan for Sarajevo, December 2020 *(Zeleni akcioni plan Kantona Sarajevo (GCAP))*: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD-Sarajevo-GCAP-FINAL-LL-v5-2-For-ISSUE.pdf, EN: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD-Sarajevo-GCAP-FINAL-EN-v5-2-For-ISSUE.pdf
  	-  Study on uban ventilation corridors, 2019 *(Studija o urbanim ventilacionim koridorima i uticaju visokih zgrada)*: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD-_-SJ-GCAP_-Study-of-urban-ventilation-corridors_translated_-LL-_2-Jan-2020.pdf, EN: https://ebrdgreencities.com/assets/Uploads/PDF/EBRD_GCAP_Study-of-urban-ventilation-corridors-V23_Final.pdf
-
    
 - Zavidovići
 	- Sustainable Urban Development Strategy Mobility of Zavidovići Municipality, July 2020 *(Strategija Razvoja Održive Urbane Mobilnosti Općine Zavidovići)*: https://www.sogfbih.ba/sites/default/files/javni_dokument/2021-05/Strategija%20razvoja%20odr%C5%BEive%20urbane%20mobilnosti%20op%C4%87ine%20Zavidovi%C4%87i.pdf
+
+- Zenica
+	- Green City Action Plan, 2019 *(Akcioni plan za zeleni grad)*: https://www.ebrdgreencities.com/assets/Uploads/PDF/Zenica-GCAP_BiH.pdf, EN: https://www.ebrdgreencities.com/assets/Uploads/PDF/Zenica-GCAP_Eng.pdf 	
 
 ### Studies and research papers <a name="studies-research"></a> 
 
