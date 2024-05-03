@@ -61,7 +61,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession and cooperation <a name="eu-accession"></a> 
 
-- Bosnia and Herzegovina 2023 Report - Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: https://neighbourhood-enlargement.ec.europa.eu/document/download/e3045ec9-f2fc-45c8-a97f-58a2d9b9945a_en?filename=SWD_2023_691%20Bosnia%20and%20Herzegovina%20report.pdf 
+- Bosnia and Herzegovina 2023 Report - Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: https://neighbourhood-enlargement.ec.europa.eu/document/download/e3045ec9-f2fc-45c8-a97f-58a2d9b9945a_en?filename=SWD_2023_691%20Bosnia%20and%20Herzegovina%20report.pdf
+- Transport Community Treaty: https://www.transport-community.org/transport-community-treaty/; more on https://www.transport-community.org/
 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
