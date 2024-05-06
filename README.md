@@ -99,7 +99,10 @@ Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP)*: http
 	- Sustainable Urban Development Strategy Mobility of Zavidovići Municipality, July 2020 *(Strategija Razvoja Održive Urbane Mobilnosti Općine Zavidovići)*: https://www.sogfbih.ba/sites/default/files/javni_dokument/2021-05/Strategija%20razvoja%20odr%C5%BEive%20urbane%20mobilnosti%20op%C4%87ine%20Zavidovi%C4%87i.pdf
 
 - Zenica
-	- Green City Action Plan, 2019 *(Akcioni plan za zeleni grad)*: https://www.ebrdgreencities.com/assets/Uploads/PDF/Zenica-GCAP_BiH.pdf, EN: https://www.ebrdgreencities.com/assets/Uploads/PDF/Zenica-GCAP_Eng.pdf 	
+	- Green City Action Plan, 2019 *(Akcioni plan za zeleni grad)*: https://www.ebrdgreencities.com/assets/Uploads/PDF/Zenica-GCAP_BiH.pdf, EN: https://www.ebrdgreencities.com/assets/Uploads/PDF/Zenica-GCAP_Eng.pdf
+
+ - Zvornik
+ 	- Action Plan for Sustainable Energy Management and Adaptation to Climate Change of the City of Zvornik (SECAP), 2020 *(Акциони план одрживог управљања енергијом и прилагођавања климатским промјенама Града Зворника (SECAP))*: https://gradzvornik.org/wp-content/uploads/2020/10/SECAP_Zvornik_nacrt_31-08-2020_CIR-1.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
