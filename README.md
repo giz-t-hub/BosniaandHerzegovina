@@ -86,6 +86,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  	- Action plan for sustainable energy management and adaptation to climate change (SECAP), 2020 *(Акциони план одрживог управљања енергијом и 
 прилагођавања климатским промјенама Града Бијељина (SECAP))*: https://www.gradbijeljina.org/UcitaneSlike/admin/Dokumenti/secap-bijeljina.pdf	 
 
+- Modriča
+	- Action Plan for Sustainable Energy Management and Adaptation to Climate Change of the Municipality of Modriča (SECAP), 2021 *(Акциони план одрживог управљања енергијом и прилагођавања климатским промјенама Општине Модрича (SECAP))*: https://modrica.ba/md/wp-content/uploads/2022/07/akcioni_plan_secap_modrica.pdf
+  
 - Sarajevo: 
 	- Sustainable Urban Mobility Plan Canton Sarajevo and City of Sarajevo - SUMP, July 2020 *(
 Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP)*: https://ms.ks.gov.ba/sites/ms.ks.gov.ba/files/SUMP.pdf
