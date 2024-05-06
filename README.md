@@ -32,7 +32,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  	- Documents provided by Ministry of Communications and Transport of Bosnia and Herzegovina: http://www.mkt.gov.ba/Content/Read/zakoni-i-podzaknosti-akti	 	
 
 - General
-	- Strategic Plan Union of Municipalities and Cities of the Republic of Srpska for the Period 2022–2028 *(Стратешки план Савеза општина и градова Републике Српске за период 2022–2028. година)*, 2022: https://www.alvrs.com/UcitaneSlike/admin/Dokumenti/strateski-plan-sogrs-za-2022-2028.pdf
+	- Strategic Plan Union of Municipalities and Cities of the Republic Srpska for the Period 2022–2028 *(Стратешки план Савеза општина и градова Републике Српске за период 2022–2028. година)*, 2022: https://www.alvrs.com/UcitaneSlike/admin/Dokumenti/strateski-plan-sogrs-za-2022-2028.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -63,6 +63,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Bosnia and Herzegovina 2023 Report - Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions: https://neighbourhood-enlargement.ec.europa.eu/document/download/e3045ec9-f2fc-45c8-a97f-58a2d9b9945a_en?filename=SWD_2023_691%20Bosnia%20and%20Herzegovina%20report.pdf
 - Transport Community Treaty: https://www.transport-community.org/transport-community-treaty/; more on https://www.transport-community.org/
+- Strategy for Sustainable and Smart Mobility in the Western Balkans, 2021: https://www.transport-community.org/strategy-for-sustainable-and-smart-mobility-in-the-western-balkans-2/
 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
