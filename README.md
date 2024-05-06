@@ -32,7 +32,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  	- Documents provided by Ministry of Communications and Transport of Bosnia and Herzegovina: http://www.mkt.gov.ba/Content/Read/zakoni-i-podzaknosti-akti	 	
 
 - General
-
+- Strategic Plan Union of Municipalities and Cities of the Republic of Serbia for the Period 2022–2028 *(Стратешки план Савеза општина и градова Републике Српске за период 2022–2028. година)*, 2022: https://www.alvrs.com/UcitaneSlike/admin/Dokumenti/strateski-plan-sogrs-za-2022-2028.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
