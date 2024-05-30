@@ -18,7 +18,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans,](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -82,7 +82,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Gender and Equality <a name="gender"></a>
 - 
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, <a name="local-transport-plans"></a>  
 
 - Banja Luka
 	- Green City Action Plan (GCAP) *(Akcioni plan za zeleni grad Banja Luka)*: https://www.ebrdgreencities.com/assets/Uploads/PDF/EBRD-Banja-Luka-GCAP-LL.pdf, EN: https://www.ebrdgreencities.com/assets/Uploads/PDF/EBRD-Banja-Luka-GCAP-EN.pdf
