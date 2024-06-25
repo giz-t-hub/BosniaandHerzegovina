@@ -121,7 +121,8 @@ Plan Održive Urbane Mobilnosti Kantona Sarajevo I Grada Sarajevo - SUMP)*: http
 
 ### Data <a name="data"></a>
 
-- 
+- SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/
+- SLOCAT Transport and Knowledge Base (TraKB): https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/
 
 
 Overview/Table of Content: https://github.com/giz-t-hub/Overview
@@ -130,15 +131,15 @@ Disclaimer: Findings, interpretations and conclusions expressed in this reposito
 
 
 For more information about our work, please refer to: 
-- Changing Transport: https://changing-transport.org/
+-	Changing Transport: https://changing-transport.org/
 -	Transformative Urban Mobility Initiative (TUMI): https://transformative-mobility.org/
 -	MobiliseYourCity: https://www.mobiliseyourcity.net/
 
 
 Contributors:
 
-- Ana Zhibaj: ana.zhibaj@giz.de
+- Milenka Knežević: milenka.knezevic@giz.de
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of April 2024)
+- (as of June 2024)
